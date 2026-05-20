@@ -1,4 +1,4 @@
-export default function pulse() {
+export default function Pulse() {
   return (
     <div className="bg-[#0f1320] text-white min-h-screen">
 
