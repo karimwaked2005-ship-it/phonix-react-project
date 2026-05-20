@@ -4,7 +4,7 @@ import Navbar from "./components/Navbar";
 
 import Home from "./pages/Home";
 import Devices from "./pages/Devices";
-import Pulse from "./pages/Pulse";
+import Pulse from "./pages/pulse";
 import System from "./pages/System";
 
 export default function App() {
